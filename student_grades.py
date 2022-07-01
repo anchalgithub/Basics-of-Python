@@ -4,3 +4,5 @@ mysum=sum(student_grades)
 length=len(student_grades)
 mean=mysum/length
 print(mean)
+
+#list and ranges
